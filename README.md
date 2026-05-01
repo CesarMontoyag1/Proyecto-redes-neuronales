@@ -1,4 +1,7 @@
-# Proyecto-redes-neuronales
+# Proyecto redes neuronales
+
+## Integrantes
+### Isabela Mendoza, Miguen Angel Ortiz, luis Angel Nerio, Cesar Montoya
 
 # Problema a resolver
 
