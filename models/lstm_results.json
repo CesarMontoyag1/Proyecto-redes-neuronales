@@ -1,0 +1,26 @@
+{
+  "modelo": "LSTM",
+  "dataset": "IMDB 50K",
+  "hiperparametros": {
+    "max_words": 20000,
+    "max_len": 200,
+    "embedding_dim": 64,
+    "lstm_units": 128,
+    "dense_units": 32,
+    "dropout_rate": 0.3,
+    "batch_size": 128,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "loss": "binary_crossentropy"
+  },
+  "entrenamiento": {
+    "epochs_ran": 10,
+    "best_epoch": 10,
+    "best_val_loss": 0.5494
+  },
+  "metricas_test": {
+    "accuracy": 0.7845,
+    "f1_score": 0.7949,
+    "roc_auc": 0.794
+  }
+}
