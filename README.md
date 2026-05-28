@@ -127,3 +127,9 @@ Este proyecto puede abordarse en tres niveles:
 3. **Modelo avanzado**: Transformer preentrenado con tokenizer correspondiente.
 
 Esto permite comparar distintos enfoques para análisis de sentimiento y evaluar cuál ofrece mejores resultados sobre las reseñas.
+
+---
+
+## Video Sustentación: [Vídeo](https://youtu.be/d-hh2da-Fv4?si=snvDZWiRyf5N3inn)
+
+---
